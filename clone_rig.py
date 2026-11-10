@@ -23,6 +23,7 @@ CATALOG = {
     "stomp_delay.py": ["AnalogBBDDelay", "SpaceEchoRE201", "PingPongStereoDelay", "ReverseDelay"],
     "stomp_reverb.py": ["FenderSpringReverb", "EMT140PlateReverb", "CathedralShimmerReverb", "ReverseReverbMBV", "ShoegazeDistortedReverb", "GatedReverb80s"],
     "stomp_pitch_master.py": ["PolyOctavePOG", "MicroPitchDetune", "ReelToReelTapeMaster"],
+    "stomp_mixer_console.py": ["AudioTriggeredSidechainDucker", "MidSideProcessorPedal", "SSLBusGlueCompressor", "MultibandLimiter3Band", "StudioMixingConsole"],
     "native_instruments.py": [
         "16 Melodic Studio Instruments: acoustic_guitar_nylon, acoustic_guitar_steel, electric_guitar_jazz, electric_guitar_clean, overdriven_guitar, distortion_guitar, acoustic_grand_piano, electric_piano_1, acoustic_bass, electric_bass_finger, violin, cello, string_ensemble_1, orchestral_harp, flute, vibraphone",
         "10 Studio Drums: kick_808, kick_acoustic, snare_808, snare_acoustic, snare_ghost, rimshot, hat_closed, hat_open, clap_808, tom_low",

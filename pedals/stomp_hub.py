@@ -12,3 +12,4 @@ from stomp_delay import AnalogBBDDelay, SpaceEchoRE201, PingPongStereoDelay, Rev
 from stomp_reverb import FenderSpringReverb, EMT140PlateReverb, CathedralShimmerReverb, ReverseReverbMBV, ShoegazeDistortedReverb, GatedReverb80s
 from stomp_pitch_master import PolyOctavePOG, MicroPitchDetune, ReelToReelTapeMaster
 from native_instruments import NativeInstrument, NativeDrumKit
+from stomp_mixer_console import AudioTriggeredSidechainDucker, MidSideProcessorPedal, SSLBusGlueCompressor, MultibandLimiter3Band, StudioMixingConsole
